@@ -1,0 +1,70 @@
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">COFEE  TEC</string>
+    <string name="Desayunos">Desayuno</string>
+    <string name="food_item_image_here">Food Item Image Here</string>
+
+    <string name="add_to_cart">Agrega carrito</string>
+    <string name="item_name_here">Item Name Here</string>
+    <string name="carrito">Cart</string>
+    <string name="checkout">Checkout</string>
+    <string name="remove_item">Remove Item</string>
+    <string name="update_cart">Update Cart</string>
+    <string name="select_locality">Select Locality</string>
+    <string name="mode_of_payment">Mode of Payment</string>
+    <string name="address">Address</string>
+    <string name="disponible">Disponible</string>
+    <string name="out_of_stock">Out Of Stock</string>
+    <string name="item_image">Item Image</string>
+    <string name="history">Pedidos realizados</string>
+    <string name="close">close</string>
+    <string name="open">open</string>
+    <string name="johndoe_abc_com">johndoe@abc.com</string>
+    <string name="avatar">Avatar</string>
+    <string name="pie_menu">Itslp© 2017</string>
+    <string name="not_yet_delivered">Not Yet Delivered</string>
+    <string name="error_conexion">Error en la conexion vuelva a intentarlo</string>
+    <string name="mensaje_reintentar">¿Quiere volver a intentarlo?</string>
+    <string name="cancelado">Solicitud cancelada</string>
+    <string name="salir">salir</string>
+    <string name="favoritos">favoritos</string>
+    <string name="categorias">categorias</string>
+
+    <!-- **********************************************Firebase IU********************************************** -->
+    <string name="next_default" translation_description="Button text to continue">Siguiente</string>
+    <string name="sign_in_default" translation_description="Button text to sign in">Autenticar</string>
+    <string name="required_field" translation_description="Inline error for required field">error.</string>
+
+    <string name="title_welcome_back_idp_prompt" translatable="false">@string/sign_in_default</string>
+    <string name="title_welcome_back_password_prompt" translatable="false">@string/sign_in_default</string>
+    <string name="welcome_back_idp_header" translation_description="Inline subtitle to users whose signup was interrupted since an existing account was detected">Ya estas regsitrado</string>
+    <string name="welcome_back_email_header" translation_description="Message for returning users">¡Bienvenenido de regreso!</string>
+    <string name="welcome_back_idp_prompt" translation_description="Message to users that need to signin using existing IDP accounts">
+        You\'ve already used <xliff:g example="jane.doe@example.com" id="email_addr" translation_description="">%1$s</xliff:g>.
+        Sign in with <xliff:g example="Google" id="provider_name" translation_description="">%2$s</xliff:g> to continue.
+    </string>
+    <string name="welcome_back_password_prompt_body" translation_description="Message to users that need to signin using existing email accounts">
+        El correo <xliff:g example="jane.doe@example.com" id="email_addr" translation_description="">%1$s</xliff:g>
+        Ya cuenta con una cuenta asociada. \n Ingrese la contraseña de su cuenta.
+    </string>
+    <string name="progress_dialog_signing_in" translation_description="Progress dialog text">Iniciando sesion…</string>
+    <string name="trouble_signing_in" translation_description="Link leading to forgot password flow">¿Tienes problemas para entrar?</string>
+
+
+    <string name="title_recover_password_activity" translation_description="Recover password screen title">Recuperar contraseña</string>
+    <string name="title_confirm_recover_password" translation_description="Password recovery confirmation message">Revisa tu email</string>
+    <string name="password_recovery_body" translation_description="Password recovery message body">Ingrese sus correo para que podamos enviarle las instrucciones y usted pueda recupere su cuenta.</string>
+    <string name="button_text_send" translation_description="Button text to send recovery email">Enviar</string>
+    <string name="confirm_recovery_body" translation_description="Alert dialog displayed after password recovery email is sent">Siga las instrucciones enviadas %1$s para recuperar su contraseña..</string>
+    <string name="progress_dialog_sending" translation_description="Progress dialog while password recovery email is being sent">Enviando…</string>
+    <string name="error_email_does_not_exist" translation_description="Inline error when user attempt signin with invalid account">Esa dirección de correo electrónico no coincide con una cuenta existente</string>
+    <string name="password_hint" translation_description="Hint for password input field">Contraseña</string>
+    <string name="email_hint" translation_description="Hint in email input field">Correo</string>
+    <string name="button_text_save" translation_description="Button text to save input form">Guardar</string>
+    <string name="name_hint" translation_description="Hint for last name input field">No de control</string>
+    <string name="create_account">Creando cuenta</string>
+    <string name="titulo_actividad_cambiar_avatar">Cambiar avatar</string>
+    <string name="btt_pedir">Hacer pedido</string>
+    <string name="Mis_promociones">Mis promociones</string>
+
+
+</resources>
